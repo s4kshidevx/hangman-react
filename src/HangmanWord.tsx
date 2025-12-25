@@ -1,6 +1,6 @@
 export function HangmanWord(){
     const word = 'test'
-    const guessedLetters =['t']
+    const guessedLetters =[]
     return ( 
     <div style={{
         display:'flex',
